@@ -4,8 +4,8 @@ Course: [IP-telephony](https://github.com/itmo-ict-faculty/ip-telephony)
 
 Year: 2025  
 Group: K34202  
-Author: Loskutova Irina  
-Lab: Lab1  
+Author: Subbota Anton  
+Lab: Lab2 
 Date of create: 10.05.2025  
 Date of finished: 10.05.2025 
 
